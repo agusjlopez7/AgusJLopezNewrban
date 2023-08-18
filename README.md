@@ -1,26 +1,23 @@
-# **iPrint**
-### *Un lugar para todos*
-#### ***iPrint es un proyecto que busca incentivar la creatividad, la dinámica y la originalidad, permitiendo a sus usuarios personalizar a gusto su prenda. El usuario tiene la posibilidad de utilizar un diseño propio, o uno de la comunidad (formato PNG). ¡Pedí remeras personalizadas, camperas, pantalones y mucho más! Nosotros nos encargamos de la producción y del envío, ¡llega a la puerta de tu casa, a tan sólo la distancia de un click!***
 
-### Algunos de los productos que se pueden encontrar son :
-- Remeras
-- Camperas
-- Pantalones
-- Gorras
-- Bolsos
-- Posters
+# AgusjlopezNewrban
 
-### *El público objetivo ronda entre los 15 años y los 35 años*
+#NewUrban 
 
-### La tipógrafía a utilizar será [Spectral](https://fonts.google.com/specimen/Spectral?selection.family=Catamaran:wght@100;300;500;800;900|Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900)
+Este repositorio esta destinado a mi e-commerce sobre accesorios y juguetes para animales
 
-### Paleta de colores:
-![Paleta](https://i.postimg.cc/3RzBCgCv/paleta.jpg)
+**Te damos la bienvenida a nuestra tienda en línea, donde encontrarás una amplia gama de juguetes diseñados para mantener a tus amigos peludos entretenidos y felices**.
 
+### Que podras encontrar en nuestra web? ###
+* Juguetes para animales
+* Accesorios 
+* Ropa para tu mascota
 
-### Logo
- ![Logo](https://cdn.dribbble.com/users/68544/screenshots/16706697/media/89fe0284962d7064c9fba45971c935bd.png)
- 
+### Tenemos todo tipo de publico, no hay edad para tus mascotas ###
 
- ### FIGMA
- [FIGMA](https://www.figma.com/file/0NkghjMJ5NlSQGWDWBKlo6/E-Commerce%2F%2F-%C3%8Fcaro-%2F%2F-iPrint?node-id=0%3A1&t=xXfFfsdRwfs96sbO-1)
+####Tipografia utilizada para el proyecto seran 2####
+[Headders](https://www.dafont.com/es/donkin.font)
+[Texto](https://www.dafont.com/es/donkin.font)
+
+### [Paleta De Colores] ( https://color.adobe.com/es/mythemes?viewTheme)
+
+### [Logotipo](https://www.bing.com/images/search?view=detailV2&ccid=Yu8gVwBA&id=18DB541EB3B5FEFB09992597D594423B3C74F545&thid=OIP.Yu8gVwBAtU7O9vmsFDt8swAAAA&mediaurl=https%3A%2F%2Fventurebeat.com%2Fwp-content%2Fuploads%2F2011%2F12%2Fshodogg_logo.jpg%3Fresize%3D300%252C300%26strip%3Dall&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.62ef20570040b54ecef6f9ac143b7cb3%3Frik%3DRfV0PDtClNWXJQ%26pid%3DImgRaw%26r%3D0&exph=300&expw=300&q=logos+para+juguetes+de+animales&simid=608025906343265252&form=IRPRST&ck=7045DE1867D5CEF061F745A77C56D891&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0&pivotparams=insightsToken%3Dccid_HHf1dX61*cp_AD8BB079EE2D071ACE03F008B03AA09F*mid_3EE22298395687F77325884AF888C5EC514B7606*simid_607995545201306667*thid_OIP.HHf1dX61gWzaGvvxgmtUXwHaHa&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)
